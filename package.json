@@ -1,5 +1,5 @@
 {
-  "name": "@flow-build/cli",
+  "name": "@flowbuild/cli",
   "version": "0.0.1",
   "description": "Flow-Build CLI",
   "private": true,
