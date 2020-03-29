@@ -12,7 +12,8 @@
     "test": "jest --coverage --passWithNoTests",
     "watch": "jest --watch",
     "snapupdate": "jest --updateSnapshot",
-    "coverage": "jest --coverage"
+    "coverage": "jest --coverage",
+    "release": "semantic-release"
   },
   "files": [
     "src",
